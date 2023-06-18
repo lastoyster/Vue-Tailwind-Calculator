@@ -1,9 +1,5 @@
-# vue3
-
-## Project setup
-```
-npm install
-```
+Vue.js Calculator UI using Tailwind CSS & Basic functionalities . 
+It has functionalities to view user history,comment etc.
 
 ### Compiles and hot-reloads for development
 ```
@@ -19,6 +15,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
